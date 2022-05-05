@@ -12,3 +12,5 @@ Este desafío no está en desarrollo por lo que no se realizaran futuras modific
 ● CRUD de archivos con File System
 
 ### Visualización
+
+![](https://github.com/aleyire/cotiza_con_bluemoney/blob/main/img/preview.png)
