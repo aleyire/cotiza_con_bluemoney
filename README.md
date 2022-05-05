@@ -5,11 +5,11 @@ La casa de cambios BlueMoney Spa posee una plataforma web que calcula los montos
 Este desafío no está en desarrollo por lo que no se realizaran futuras modificaciones.
 
 ### Materia aplicada
-● ¿Qué es Node?
-● Child process
-● Argumentos por la línea de comandos
-● Consulta a una API desde Node
-● CRUD de archivos con File System
+- ¿Qué es Node?
+- Child process
+- Argumentos por la línea de comandos
+- Consulta a una API desde Node
+- CRUD de archivos con File System
 
 ### Visualización
 
